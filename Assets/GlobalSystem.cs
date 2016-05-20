@@ -39,4 +39,5 @@ public class GlobalSystem : NetworkBehaviour {
         NewChatLine.transform.SetParent(ChatContainer);
 
     }
+
 }
