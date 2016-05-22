@@ -239,8 +239,11 @@ Library/*.log
 Library/ShaderCache.db
 Library/ShaderCache
 Library/shadercompiler-1.log
+Library/LastSceneManagerSetup.txt
+Library/ProjectSettings.asset
 
 # various
+ProjectSettings/ProjectSettings.asset
 AnnotationManager
 AssetImportState
 AssetServerCacheV3
