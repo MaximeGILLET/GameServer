@@ -113,7 +113,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1215577026}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fdb0552687766e9468fa85284377af50, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b8eec41a75c64b4cb297e1559a3e865, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ChatLineModel: {fileID: 0}
