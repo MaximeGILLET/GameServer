@@ -2,7 +2,8 @@
 using System.Collections;
 using UnityEngine.Networking;
 
-public class GlobalSystem : NetworkBehaviour {
+public class GlobalSystem : NetworkBehaviour
+{
 
     bool isAtStartup = true;
     public GameObject ChatLineModel;
